@@ -104,14 +104,14 @@ These diverse chart types will enhance our ability to visualize and communicate 
 
 - Bank loans are a crucial financial tool that enables individuals and businesses to achieve their goals and manage financial needs. However, it's essential for borrowers to understand the terms, costs, and responsibilities associated with loans to make informed financial decisions.
   
-- Banks collect loan data through various channels and processes, including:
+### - Banks collect loan data through various channels and processes, including:
   - Loan Applications: When individuals or businesses apply for loans, they submit detailed applications that include personal and financial information. This data is collected electronically or in paper form.
   - Credit Reports: Banks often access credit reports from credit bureaus when assessing a borrower's creditworthiness. These reports contain information about a person's credit history, existing loans, and payment behavior.
   - Internal Records: Banks maintain internal records of loan transactions, including disbursements, repayments, and loan status changes. These records are generated and stored in the bank's database.
   - Online Portals: Many banks offer online platforms where borrowers can apply for loans, make payments, and access account information. Data from these portals is collected and stored for analysis.
   - Third-party Data Sources: Some banks may use external data sources, such as income verification services, to gather additional information about borrowers.
 
-- Process of Granting a Loan:
+### - Process of Granting a Loan:
   - Loan Application: The process begins when a customer submits a loan application to a bank or lending institution. This application can be submitted in person, online, or through other channels.
   - Application Review: The lending institution reviews the loan application and collects necessary documentation, such as income statements, credit reports, and identification documents.
   - Identity Verification: One of the initial checks is to verify the applicant's identity. This helps ensure that the applicant is who they claim to be and prevents identity theft.
@@ -127,7 +127,7 @@ These diverse chart types will enhance our ability to visualize and communicate 
   - Repayment: The borrower is responsible for making regular loan payments as specified in the loan agreement. This includes repaying the principal amount along with interest.
   - Ongoing Monitoring: Lenders continue to monitor the loan throughout its term, including tracking payments, assessing the borrower's financial health, and managing any delinquencies or defaults.
 
-- Reasons for Analyzing Bank Loan Data:
+### - Reasons for Analyzing Bank Loan Data:
   - Risk Assessment: One of the primary purposes of analyzing loan data is to assess the risk associated with lending to a particular individual or business. Banks use data to evaluate the creditworthiness of borrowers, predict default probabilities, and determine interest rates and lending terms.
   - Decision-making: Loan data analysis supports the decision-making process when evaluating loan applications. Banks use data-driven models and algorithms to make informed lending decisions, such as approving or denying loan requests.
   - Portfolio Management: Banks manage portfolios of loans, including mortgages, personal loans, and business loans. Data analysis helps banks monitor the health of these portfolios, identify underperforming loans, and optimize loan terms and pricing.

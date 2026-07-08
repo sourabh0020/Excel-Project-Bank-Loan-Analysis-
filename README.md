@@ -7,11 +7,11 @@ End-to-end analytics project on retail bank lending performance — 38,600+ loan
 ## 📊 Dashboard Preview
 
 | Overview |
-|---|---|
+
 | ![Overview](https://github.com/sourabh0020/Excel-Project-Bank-Loan-Analysis-/blob/main/BANKLOAN%20OVERVIEW.png) 
 |---|---|
 | Summary |
-|---|---|
+
 | ![Summary](https://github.com/sourabh0020/Excel-Project-Bank-Loan-Analysis-/blob/main/BANKLOAN%20SUMMARY%20DASHBOARD%20.png) 
 
 ## 🎯 Problem Statement
